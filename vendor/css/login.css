@@ -1,0 +1,79 @@
+.bg-img {
+  /* The image used */
+  background-image: url("../images/vendor_login.jpg");
+
+  /* Control the height of the image */
+  height: 758px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+body{
+  color: black;
+}
+  .container {
+    position: absolute;
+    left:625px;
+    bottom:130px;
+    margin: 20px;
+    max-width: 300px;
+    padding: 5px;
+    background-color: rgb(0, 251, 255);
+  }
+
+    .form-login {
+    max-width:350px;
+    padding:40px;
+    background:#e9e9e9;
+    margin:0 auto;
+    
+    }
+    
+    
+    .form-login .form-login-heading{
+    color:#337ab7;
+    text-align:center;
+    
+    }
+    
+    .form-login .form-control {
+    position:relative;
+    height:auto;
+    box-sizing:border-box;
+    padding:10px;
+    font-size:16px;
+    
+    }
+    
+    .form-login input[type="text"] {
+    margin-bottom:5px;
+    border-bottom-right-radius:0;
+    border-bottom-left-radius: 0;
+    
+    }
+    
+    .form-login input[type="password"] {
+    margin-bottom:10px;
+    border-top-left-radius: 0;
+    border-top-right-radius:0;
+    
+    
+    }
+    
+    
+    .form-login .forgot-password{
+    text-align:center;
+    margin-bottom:0px;
+    margin-top:30px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    

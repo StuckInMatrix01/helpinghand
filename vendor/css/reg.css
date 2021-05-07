@@ -1,0 +1,20 @@
+.bg-img {
+    /* The image used */
+    background-image: url("../images/vendor_login.jpg");
+    
+    /* Control the height of the image */
+    height: 758px;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+ .container{
+     width: 30%;
+    
+ }
+ body{
+     color: white;
+ }
